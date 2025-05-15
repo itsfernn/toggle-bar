@@ -48,4 +48,4 @@ To bind the toggle to a custom key:
    * **Shortcut**: Choose your desired key combo (e.g., `Ctrl+B`)
 
 ## License
-MIT
+This project is licensed under the [MIT License](./LICENSE).
